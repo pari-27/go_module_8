@@ -1,0 +1,1 @@
+New text to be added to file output.txt[{"Name":"tom","Age":10,"Active":true},{"Name":"jerry","Age":5,"Active":false}]
